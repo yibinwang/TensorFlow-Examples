@@ -111,3 +111,4 @@ The following examples are coming from [TFLearn](https://github.com/tflearn/tfle
 - [Keras](https://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 
 ### Attention models/Transformer
+- [BERT](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
