@@ -101,3 +101,11 @@ The following examples are coming from [TFLearn](https://github.com/tflearn/tfle
 
 ### Examples
 - [TFLearn Examples](https://github.com/tflearn/tflearn/blob/master/examples). A large collection of examples using TFLearn.
+
+### Exampels of GAN
+- [GAN explained](https://skymind.ai/wiki/generative-adversarial-network-gan)
+- [GAN tutorial](https://bamos.github.io/2016/08/09/deep-completion/#step-1-interpreting-images-as-samples-from-a-probability-distribution)
+
+### Simple Tutorial of LSTM via TF/Keras
+- [TF](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
+- [Keras](https://adventuresinmachinelearning.com/keras-lstm-tutorial/)
